@@ -9,6 +9,7 @@
 - control flow (if, for, while)
 - data structures (list, tuple, set, dict)
 - functions
+- file handling
 
 ### OOP (object-oriented programming)
 
